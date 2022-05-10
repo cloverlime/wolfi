@@ -1,0 +1,6 @@
+pytest
+black
+isort
+mypy
+types-setuptools
+flake8
